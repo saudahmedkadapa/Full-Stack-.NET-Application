@@ -1,0 +1,38 @@
+
+.navbar {
+    background-color: #007bff; 
+  }
+  
+  .navbar .navbar-brand {
+    color:blue; 
+    font-weight: bold;
+  }
+  
+  .navbar .navbar-nav .nav-link {
+    color: blue; 
+    margin-left: 15px;
+  }
+  
+  .navbar .navbar-toggler-icon {
+    filter: invert(1); 
+  }
+  
+  .navbar .nav-link:hover {
+    color:blue; 
+  }
+  
+  .navbar .nav-link.active {
+    font-weight: bold; 
+    color: blue;
+  }
+  
+  @media (max-width: 768px) {
+    .navbar .navbar-collapse {
+      text-align: center; 
+    }
+  
+    .navbar .navbar-nav .nav-link {
+      margin-left: 0; 
+    }
+  }
+  

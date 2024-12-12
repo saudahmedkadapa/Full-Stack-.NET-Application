@@ -1,0 +1,16 @@
+/* Footer.css */
+.footer {
+    background-color: #282c34; /* Dark background for the footer */
+    color: white; /* White text color */
+    text-align: center; /* Center align text */
+    padding: 20px 0; /* Vertical padding */
+    position: relative; /* Position relative for layout */
+    bottom: 0; /* Align to the bottom */
+    width: 100%; /* Full width */
+    font-size: 1rem; /* Font size */
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for separation */
+}
+
+.footer p {
+    margin: 0; /* Remove default margin */
+}

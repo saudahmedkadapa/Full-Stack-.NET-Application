@@ -1,0 +1,55 @@
+
+.landing-page {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #333;
+  }
+  
+  .header {
+    background-color: #007bff;
+    color: white;
+    padding: 50px 0;
+  }
+  
+  .cta-button {
+    background-color: white;
+    color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .cta-button:hover {
+    background-color: #0056b3;
+    color: white;
+  }
+  
+  .features {
+    padding: 20px;
+  }
+  
+  .feature-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .feature {
+    border: 1px solid #007bff;
+    padding: 20px;
+    border-radius: 8px;
+    width: 200px;
+  }
+  
+  .how-it-works {
+    padding: 20px;
+  }
+  
+  .footer {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 0;
+    position: relative;
+  }
+  

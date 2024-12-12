@@ -1,0 +1,34 @@
+.features-container {
+    padding: 20px;
+  }
+  
+  .features-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .feature-item {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .feature-icon {
+    font-size: 24px;
+  }
+  
+  .btn {
+    padding: 10px 15px;
+    margin-top: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    color: white;
+  }
+  

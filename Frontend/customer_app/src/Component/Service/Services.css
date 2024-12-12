@@ -1,0 +1,16 @@
+.features {
+    padding: 20px;
+  }
+  
+  .feature-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .feature {
+    border: 1px solid #007bff;
+    padding: 20px;
+    border-radius: 8px;
+    width: 200px;
+  }

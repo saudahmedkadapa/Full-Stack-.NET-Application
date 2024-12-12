@@ -1,0 +1,23 @@
+/* About.css */
+.about-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #f9f9f9; /* Light background color */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.about-container h1 {
+    font-size: 2.5rem; /* Larger font for the heading */
+    color: #333; /* Darker text color */
+    text-align: center; /* Center align the heading */
+    margin-bottom: 20px; /* Space below the heading */
+}
+
+.about-container p {
+    font-size: 1.2rem; /* Slightly larger text for readability */
+    color: #555; /* Medium gray text color */
+    line-height: 1.6; /* Spacing between lines */
+    text-align: justify; /* Justify text for a neat look */
+}
