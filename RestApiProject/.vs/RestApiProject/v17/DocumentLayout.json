@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\DotNetProject\\RestApiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|d:\\project\\dotnetproject\\restapiproject\\restapiproject\\controllers\\slotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\controllers\\slotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|d:\\project\\dotnetproject\\restapiproject\\restapiproject\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|d:\\project\\dotnetproject\\restapiproject\\restapiproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|d:\\project\\dotnetproject\\restapiproject\\restapiproject\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|d:\\project\\dotnetproject\\restapiproject\\restapiproject\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|d:\\project\\dotnetproject\\restapiproject\\restapiproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|d:\\project\\dotnetproject\\restapiproject\\restapiproject\\models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|d:\\project\\dotnetproject\\restapiproject\\restapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|d:\\project\\dotnetproject\\restapiproject\\restapiproject\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|d:\\project\\dotnetproject\\restapiproject\\restapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Migrations\\20241103074524_ApiProject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestApiProject\\Migrations\\20241103074524_ApiProject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Migrations\\20241103074355_ApiProject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestApiProject\\Migrations\\20241103074355_ApiProject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|d:\\project\\dotnetproject\\restapiproject\\restapiproject\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|d:\\project\\dotnetproject\\restapiproject\\restapiproject\\restapiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\restapiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|d:\\project\\dotnetproject\\restapiproject\\restapiproject\\migrations\\20241103194350_bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9425565-54C0-4C2E-B9C4-A0E4A0C48147}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\migrations\\20241103194350_bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "RestApiProject\\Models\\Booking.cs",
+              "ToolTip": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Models\\Booking.cs",
+              "RelativeToolTip": "RestApiProject\\Models\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:02:06.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\appsettings.json",
+              "RelativeDocumentMoniker": "RestApiProject\\appsettings.json",
+              "ToolTip": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\appsettings.json",
+              "RelativeToolTip": "RestApiProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T16:50:50.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "RestApiProject\\Controllers\\RegisterController.cs",
+              "ToolTip": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "RestApiProject\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:51:27.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SlotController.cs",
+              "DocumentMoniker": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Controllers\\SlotController.cs",
+              "RelativeDocumentMoniker": "RestApiProject\\Controllers\\SlotController.cs",
+              "ToolTip": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Controllers\\SlotController.cs",
+              "RelativeToolTip": "RestApiProject\\Controllers\\SlotController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:08:41.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "RestApiProject\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "RestApiProject\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:04:34.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "RestApiProject\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "RestApiProject\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:52:13.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Slot.cs",
+              "DocumentMoniker": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Models\\Slot.cs",
+              "RelativeDocumentMoniker": "RestApiProject\\Models\\Slot.cs",
+              "ToolTip": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Models\\Slot.cs",
+              "RelativeToolTip": "RestApiProject\\Models\\Slot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:07:48.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RestApiProject\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RestApiProject\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:49:51.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241103194350_bookings.cs",
+              "DocumentMoniker": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Migrations\\20241103194350_bookings.cs",
+              "RelativeDocumentMoniker": "RestApiProject\\Migrations\\20241103194350_bookings.cs",
+              "ToolTip": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Migrations\\20241103194350_bookings.cs",
+              "RelativeToolTip": "RestApiProject\\Migrations\\20241103194350_bookings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:43:50.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "RestApiProject\\Models\\Register.cs",
+              "ToolTip": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Models\\Register.cs",
+              "RelativeToolTip": "RestApiProject\\Models\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:54:50.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241103074355_ApiProject.cs",
+              "DocumentMoniker": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Migrations\\20241103074355_ApiProject.cs",
+              "RelativeDocumentMoniker": "RestApiProject\\Migrations\\20241103074355_ApiProject.cs",
+              "ToolTip": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Migrations\\20241103074355_ApiProject.cs",
+              "RelativeToolTip": "RestApiProject\\Migrations\\20241103074355_ApiProject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:43:56.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Program.cs",
+              "RelativeDocumentMoniker": "RestApiProject\\Program.cs",
+              "ToolTip": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Program.cs",
+              "RelativeToolTip": "RestApiProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:27:36.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241103074524_ApiProject.cs",
+              "DocumentMoniker": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Migrations\\20241103074524_ApiProject.cs",
+              "RelativeDocumentMoniker": "RestApiProject\\Migrations\\20241103074524_ApiProject.cs",
+              "ToolTip": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Migrations\\20241103074524_ApiProject.cs",
+              "RelativeToolTip": "RestApiProject\\Migrations\\20241103074524_ApiProject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:45:24.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RestApiProject.csproj",
+              "DocumentMoniker": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\RestApiProject.csproj",
+              "RelativeDocumentMoniker": "RestApiProject\\RestApiProject.csproj",
+              "ToolTip": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\RestApiProject.csproj",
+              "RelativeToolTip": "RestApiProject\\RestApiProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T08:04:36.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "RestApiProject\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\Project\\DotNetProject\\RestApiProject\\RestApiProject\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "RestApiProject\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:53:25.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
